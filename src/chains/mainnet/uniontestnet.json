@@ -1,0 +1,29 @@
+{
+  "chain_name": "Union-Testnet",
+  "api": [
+    "https://testnet-union-api.konsortech.xyz"
+  ],
+  "rpc": ["https://testnet-union-rpc.konsortech.xyz"],
+  "snapshot_provider": "CoinHunters",
+  "sdk_version": "v0.50.5",
+  "coin_type": "60",
+  "min_tx_fee": "500",
+  "assets": [
+    {
+      "base": "muno",
+      "symbol": "UNO",
+      "exponent": "6",
+      "coingecko_id": "union",
+      "logo": "https://pbs.twimg.com/profile_images/1821610378796634112/zxLnzPaL_400x400.png"
+    },
+    {
+      "base": "muno",
+      "symbol": "UNO",
+      "exponent": "6",
+      "coingecko_id": "union",
+      "logo": "https://pbs.twimg.com/profile_images/1821610378796634112/zxLnzPaL_400x400.png"
+    }
+  ],
+  "addr_prefix": "union",
+  "logo": "https://pbs.twimg.com/profile_images/1821610378796634112/zxLnzPaL_400x400.png"
+}
