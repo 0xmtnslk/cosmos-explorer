@@ -1,0 +1,29 @@
+{
+  "chain_name": "Kopi",
+  "api": [
+    "https://kopi-api.coinhunterstr.com"
+  ],
+  "rpc": ["https://kopi-rpc.coinhunterstr.com"],
+  "snapshot_provider": "CoinHunters",
+  "sdk_version": "v0.50.11-0.1",
+  "coin_type": "60",
+  "min_tx_fee": "500",
+  "assets": [
+    {
+      "base": "ukopi",
+      "symbol": "XKP",
+      "exponent": "6",
+      "coingecko_id": "lava-network",
+      "logo": "https://explorer.kopi.money/src/assets/logo.svg"
+    },
+    {
+      "base": "ukopi",
+      "symbol": "XKP",
+      "exponent": "6",
+      "coingecko_id": "kopi",
+      "logo": "https://explorer.kopi.money/src/assets/logo.svg"
+    }
+  ],
+  "addr_prefix": "kopi",
+  "logo": "https://explorer.kopi.money/src/assets/logo.svg"
+}
